@@ -1,0 +1,2 @@
+# config.json
+Aternos Botu
