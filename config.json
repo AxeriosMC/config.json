@@ -1,0 +1,9 @@
+{
+  "username": "AxeriosMCBot",
+  "password": "AxeriosMC1",
+  "server": "AxeriosMC.aternos.me",
+  "autoStart": true,
+  "commands": [
+    "/say Merhaba sunucu!"
+  ]
+}
